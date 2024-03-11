@@ -120,7 +120,7 @@ body{
 @media (min-width:1200px){
 
     .container .jumbotron{
-        background: url("/images/cottonbro-studio-hor.jpg") no-repeat ;
+        background: url("/images/cottonbro-studio-hor.JPG") no-repeat ;
         background-size:cover;
         box-shadow: 0 0 50px #3f0c1f ;
         border: 2px solid #3f0c1f;
@@ -147,7 +147,7 @@ body{
 
 
     .container .jumbotron{
-        background: url("/images/cottonbro-studio-hor.jpg") no-repeat ;
+        background: url("/images/cottonbro-studio-hor.JPG") no-repeat ;
         background-size:cover;
         box-shadow: 0 0 50px #3f0c1f ;
         border: 2px solid #3f0c1f;
@@ -162,7 +162,7 @@ body{
 @media (min-width:768px) and (max-width:991px){
 
     .container .jumbotron{
-        background: url("/images/cottonbro-studio-hor.jpg") no-repeat ;
+        background: url("/images/cottonbro-studio-hor.JPG") no-repeat ;
         background-size:cover;
         box-shadow: 0 0 50px #3f0c1f ;
         border: 2px solid #3f0c1f;
