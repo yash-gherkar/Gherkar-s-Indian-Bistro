@@ -133,15 +133,15 @@ body{
   #menu-tile:hover, #specials-tile:hover, #map-tile:hover{
     box-shadow: 0 1px 5px 1px #cccccc;
   }
-
+  
   #menu-tile{
-    background: url("../images/menu_image.jpg");
+    background-image: url(/images/menu_image.jpg);
     background-size: cover;
     background-position: center;
   }
 
   #specials-tile{
-    background: url("../images/specials_image.jpg");
+    background-image: url(/images/specials_image.jpg);
     background-size: cover;
     background-position: center;
   }
