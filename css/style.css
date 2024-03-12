@@ -135,7 +135,7 @@ body{
   }
   
   #menu-tile{
-    background-image: url(../images/menu_image.jpg);
+    background-image: url(../../images/menu_image.jpg);
     background-size: cover;
     background-position: center;
   }
