@@ -135,13 +135,13 @@ body{
   }
   
   #menu-tile{
-    background-image: url(/images/menu_image.jpg);
+    background-image: url(../images/menu_image.jpg);
     background-size: cover;
     background-position: center;
   }
 
   #specials-tile{
-    background-image: url(/images/specials_image.jpg);
+    background-image: url(../images/specials_image.jpg);
     background-size: cover;
     background-position: center;
   }
