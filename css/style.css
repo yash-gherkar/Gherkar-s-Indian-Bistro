@@ -279,7 +279,6 @@ body{
          text-transform: uppercase;
        }   
 
-
       .panel-footer section{
         text-align: center;
         margin-bottom: 30px;
@@ -290,7 +289,7 @@ body{
       }
 
       .panel-footer section hr{
-        width: 60%;
+        width: 50%;
       }
        
 }
