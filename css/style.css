@@ -194,6 +194,49 @@ body{
 
 
 
+/*****************************************************************************************************************/
+  
+/********Menu.HTML***********/
+
+.category-tile{
+  background-color: #f6b339;
+  height:200px;
+  width:250px;
+  margin-top:25px;
+  background: url(/images/roti.jpg);
+  background-size: cover;
+  position: relative;
+  border: 2px solid #3f0c1f;
+  overflow: hidden;
+  margin: 0 auto 15px;
+}
+
+.category-tile span{
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  bottom:0px;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  opacity: 0.8;
+}
+
+.category-tile:hover{
+  box-shadow: 0 1px 5px 1px #cccccc;
+}
+
+
+
+
+
+
+
+/******************************************************************************************************************/
+
+
+
 /* Media Queries */
 
 /********************   Large  ********************/
