@@ -201,7 +201,7 @@ body{
 .category-tile{
   background-color: #f6b339;
   height:200px;
-  width:250px;
+  width:230px;
   margin-top:25px;
   background: url(/images/roti.jpg);
   background-size: cover;
@@ -335,4 +335,18 @@ body{
         width: 50%;
       }
        
+}
+
+
+@media (max-width:543px){
+
+  .col-xxs-12{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    width: 100%;
+
+  }
 }
